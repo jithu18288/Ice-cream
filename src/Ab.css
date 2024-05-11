@@ -1,0 +1,56 @@
+.body{
+    padding-top: 10px;
+    padding-left:40px;
+    padding-right:40px;
+    line-height: 1.5;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/022/276/118/non_2x/banner-with-ice-cream-copy-space-top-view-summer-background-generative-ai-free-photo.jpeg");
+    
+    background-repeat: no-repeat;
+  background-attachment:fixed ;
+  background-size: 100% 100%;
+  position:fixed;
+ 
+  
+  width: 1500px;
+  height: 750px;
+}
+p{
+    margin-bottom: 0;
+}
+h1{
+    font-size: 40px;
+    font-family: cursive;
+    color:#D61355;
+    padding-right:250px;
+}
+.head{
+   font-size: 25px;
+   text-align: left;
+   padding-bottom:0px;
+   font-weight: 600;
+   color:#183D3D;
+}
+.one{
+    float:left;
+    width:800px;
+    text-align: left;
+    padding-top:0px;
+    font-weight: 500;
+}
+.three{
+    
+    padding-left:100px;
+    padding-top: 50px;
+    float:left;
+    width:800px;
+    text-align: left;
+    font-family: cursive;
+    font-size:22px;
+    color:#0D1282;
+}
+.two{
+    float:left;
+    width:800px;
+    text-align: left;
+    font-weight: 500;
+}

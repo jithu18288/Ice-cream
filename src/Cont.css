@@ -1,0 +1,39 @@
+.Cont{
+
+background-color: #fff;
+background-repeat: no-repeat;
+background-attachment:fixed ;
+width: 1500px;
+height: 750px;
+}
+#form1 {
+    height:auto;
+    margin: auto;
+}
+#form1 input, #form1 textarea {
+    width: 15%;
+    padding: 7px;
+    padding-left: 15px;
+}
+#name,#email,#fb {
+    border-radius:5px;
+}
+
+.click{
+    align-items: center;
+}
+.loc a{
+    text-decoration: none;
+    color:black;
+}
+
+h1{
+    font-size:40px;
+    padding-top:10px;
+    color:rgb(2, 89, 89);
+ }
+ .down img{
+    height:auto;
+    width:auto;
+    
+ }

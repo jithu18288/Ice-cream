@@ -1,0 +1,24 @@
+.info{
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    height: 100vh;
+    overflow-y:auto;
+    overflow-x:auto ;
+    
+
+    background-size: 100% 100%;
+    position:fixed;
+   
+}
+table{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1,h2{
+    color: blueviolet;
+}
+tr{
+ color: blueviolet;
+}

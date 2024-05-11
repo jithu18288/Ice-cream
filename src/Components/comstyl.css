@@ -1,0 +1,65 @@
+table {
+    width:100%;
+    overflow-y:auto;
+}
+table.menu {
+    width: auto;
+    margin-left: 1080px;
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #b4ba4a;
+    font-size:1rem;
+    text-transform: capitalize;
+    animation: animate 1s ease-in-out infinite alternate;
+    
+}
+
+#id1,#id2{
+    margin-left: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4ababa;
+    font-size:1rem;
+    text-transform: capitalize;
+    animation: animate 2s ease-in-out infinite alternate;
+}
+
+@keyframes animate
+ {
+    0%{
+        color : #fff;
+        
+        text-shadow: 0 0 10px #00b3ff,
+        0 0 20px #00b3ff,
+        0 0 30px #00b3ff,
+        0 0 40px #00b3ff,
+        0 0 80px #00b3ff,
+        0 0 120px #00b3ff,
+        0 0 200px #00b3ff,
+        0 0 300px #00b3ff,
+        0 0 400px #00b3ff;
+    
+    
+        }
+      30%,70%{
+            color : #fff;
+           
+            text-shadow: 0 0 10px #e5114d,
+            0 0 20px #e5114d,
+            0 0 30px #e5114d,
+            0 0 40px #e5114d,
+            0 0 80px #e5114d,
+            0 0 120px #e5114d,
+            0 0 200px #e5114d,
+            0 0 300px #e5114d,
+            0 0 400px #e5114d;
+            }
+    
+        100%{
+            color:transparent;
+            box-shadow: none;
+            
+    
+        }
+    
+
+}
